@@ -1,0 +1,4 @@
+report_id,report_name,source_folder,destination_folder,is_private,owner_username
+00OB0000000XXXX1,Sample Sales Report,Old Reports,Sales Reports,false,
+00OB0000000XXXX2,Personal Pipeline,My Personal Reports,Private Reports Team A,true,john.doe@company.com
+00OB0000000XXXX3,Personal Forecast,My Personal Reports,Private Reports Team B,true,jane.smith@company.com
